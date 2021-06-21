@@ -12,3 +12,6 @@ set nohlsearch " stop the highlighting
 set wmnu " show the list of candidates when using tab autocomplete
 set relativenumber " show line number with relative number
 set numberwidth=2 " how wide the column containing line numbers
+set wrap " turn on line wrapping
+set wrapmargin=8 " wrap lines when coming within n characters from side
+set showmatch " show matching braces
